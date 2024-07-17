@@ -47,5 +47,12 @@ The project is a work in progress and is not yet complete.
 - [ ] User feed (posts from users you follow)
 - [ ] User flair
 
+Captain's Log
 
-I had an error on line 12 od Userinfo.jsx with 'user.name' so changed it to 'username' and swapped just below to {session.user_id} rather than 'user.id'. It seems to have moved past the error, at least, but I've still nothing showing up. A big problem atm is everything lagging.
+I had an error on line 12 od Userinfo.jsx with 'user.name' so changed it to 'username' and swapped just below to {session.user_id} rather than 'user.id'. It seems to have moved past the error, at least, but I've still nothing showing up. A big problem atm is everything lagging. It gives me a chance to have many cups of tea and admire the beauty of space.
+
+Ok, second error is an issue with PostList component. I'm told the code is all fine to go so I'm not too sure what's going on. Lengthy response times still an issue.
+
+After seeking help from Intelligence Officers Samock and Coreliad a full system shut down has been advised.
+
+While systems appear to be now online my github credentials are no longer recognised.
