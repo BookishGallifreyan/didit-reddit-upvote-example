@@ -46,3 +46,6 @@ The project is a work in progress and is not yet complete.
 - [ ] User following
 - [ ] User feed (posts from users you follow)
 - [ ] User flair
+
+
+I had an error on line 12 od Userinfo.jsx with 'user.name' so changed it to 'username' and swapped just below to {session.user_id} rather than 'user.id'. It seems to have moved past the error, at least, but I've still nothing showing up. A big problem atm is everything lagging.
